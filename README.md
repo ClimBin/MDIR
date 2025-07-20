@@ -4,7 +4,7 @@ Welcome to the official implementation repository of the paper **"MDIR"**. This 
 
 ## Project Status
 
-Currently, the paper is under review. We plan to release all training and testing weights as well as the **CIR** dataset upon the paper's official publication. Stay tuned for future updates!
+Currently, the paper is under review. We plan to release all training and testing weights as well as the **[CIR](https://drive.google.com/file/d/1a7L12Fqu7nkIFlP85IVgwRP8iQWWw3ni/view?usp=sharing)** dataset upon the paper's official publication. Stay tuned for future updates!
 
 ## Table of Contents
 
